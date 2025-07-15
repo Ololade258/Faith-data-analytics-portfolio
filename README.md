@@ -39,7 +39,6 @@ This repository contains a collection of projects completed as part of my data a
 - Storytelling with Data
 
 ---
-
 ##  About Me
 I am passionate about turning raw data into meaningful insights that drive decisions. This portfolio is a reflection of my growing expertise in the data analytics field.
 
