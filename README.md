@@ -42,6 +42,8 @@ This repository contains a collection of projects completed as part of my data a
 ##  About Me
 I am passionate about turning raw data into meaningful insights that drive decisions. This portfolio is a reflection of my growing expertise in the data analytics field.
 
+📁 [View My Visual Portfolio on Canva](https://www.canva.com/design/DAGtNZJ2FPs/xWMq7epulyIqAHv2Uaz5iw/edit?utm_content=DAGtNZJ2FPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 Let’s connect!  
 **[https://www.linkedin.com/in/faith-israel-250298is?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](#)** | **[faithlol98@gmail.com](#)**
 
